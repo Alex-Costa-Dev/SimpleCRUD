@@ -12,7 +12,7 @@
 </head>
 <body>
 
-	<div class="container-flex" id="home_nav">
+	<div class="container-fluid" id="home_nav">
 		<ul class="nav">
 		  <li>
 		    <a class="nav-link" href="#">Inserir Usuário</a>
@@ -28,6 +28,32 @@
 		  </li>
 		</ul>
 	</div>
+
+	<div class="container-flex" >
+		<div class="jumbotron jumbotron-fluid" id="jumbotron_body">
+		  <div class="container">
+		    <h1 class="display-4">Simple CRUD.</h1>
+		    <p class="lead">This is a simple example tha you can access data in a database.</p>
+		  </div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="item_image">
+			<img src="../assets/_images/crud.png">
+		</div>
+		<div class="item_image">
+			<img src="../assets/_images/mysql.png">
+		</div>
+	</div>
+	<footer class="container-flex">
+		<div class="footer_crud">
+			<h4>Created by Alex Costa</h4>
+		</div>
+	</footer>
+
+
+		
+	
 
 
 
