@@ -15,16 +15,16 @@
 	<div class="container-fluid" id="home_nav">
 		<ul class="nav">
 		  <li>
-		    <a class="nav-link" href="#">Inserir Usuário</a>
+		    <a class="nav-link" href="#">insert user</a>
 		  </li>
 		  <li>
-		    <a class="nav-link" href="#">Pesquisar Usuário</a>
+		    <a class="nav-link" href="#">Search user</a>
 		  </li>
 		  <li>
-		    <a class="nav-link" href="#">Alterar Usuário</a>
+		    <a class="nav-link" href="#">Change User</a>
 		  </li>
 		  <li>
-		    <a class="nav-link" href="#" >Deletar Usuário</a>
+		    <a class="nav-link" href="#" >Delete User</a>
 		  </li>
 		</ul>
 	</div>
